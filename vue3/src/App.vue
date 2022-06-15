@@ -6,6 +6,8 @@
 </template>
 
 <style>
+@import '@oruga-ui/oruga-next/dist/oruga.css';
+
 #app {
   height: 100vh;
   width: 100vw;
