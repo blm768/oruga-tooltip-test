@@ -12,4 +12,5 @@ export default Vue.extend({
 </script>
 
 <style>
+@import '@oruga-ui/oruga/dist/oruga.css';
 </style>
